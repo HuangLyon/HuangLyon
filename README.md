@@ -7,4 +7,5 @@
 - 🌱 I’m currently learning deep learning 
 - 😄Hope to contribute to society through coding
 - I love coding.
+- Studying Deep Learning Now
 
